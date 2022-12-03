@@ -1,0 +1,37 @@
+CREATE TABLE IF NOT EXISTS friends
+                            (
+                                friend_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+                                friend_email VARCHAR(50) NOT NULL,
+                                password VARCHAR(20) NOT NULL,
+                                profile_name VARCHAR(30) NOT NULL,
+                                date_started date NOT NULL,
+                                num_of_friends INT UNSIGNED,
+                                UNIQUE (friend_email)
+                            );
+
+CREATE TABLE IF NOT EXISTS myfriends
+                            (
+                                friend_id1 INT NOT NULL,
+                                friend_id2 INT NOT NULL,
+                                CONSTRAINT PK_myfriends PRIMARY KEY (friend_id1, friend_id2),
+                                CONSTRAINT FK1_myfriends FOREIGN KEY (friend_id1) REFERENCES friends(friend_id),
+                                CONSTRAINT FK2_myfriends FOREIGN KEY (friend_id2) REFERENCES friends(friend_id)
+                            );
+
+
+INSERT IGNORE INTO friends
+                            (
+                                friend_email,
+                                password,
+                                profile_name,
+                                date_started,
+                                num_of_friends
+                            )
+                            VALUES
+                                (
+                                    'admin', 
+                                    'leavemealone',
+                                    'Administrator',
+                                    '2021-07-27',
+                                    10
+                                );

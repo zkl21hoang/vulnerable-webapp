@@ -1,0 +1,23 @@
+P2001	Security Intern	Internship in pentesting the security level of system	11/09/21	Full Time	Ongoing	Post	VIC
+P2002	Security Trainee	Traineeship in pentesting security level of network and system	12/10/21	Full Time	Fixed Term	Mail	VIC
+P2003	Junior Security	Working in security project (1 year experience in security)	13/09/21	Full Time	Ongoing	Post, Mail	NSW
+P2004	Senior Security	Working in security project (3 years experience)	17/12/21	Part Time	Fixed Term	Post, Mail	TAS
+P2005	Cloud Security	Implement cloud security for company system hosted on AWS Cloud	25/11/21	Part Time	Ongoing	Post	NT
+P2006	IoT Security	Implement and Assess the security level in IoT System	26/11/21	Full Time	Fixed Term	Mail	NSW
+P2007	Security Manager	Managing security team and security project	27/10/21	Part Time	Fixed Term	Mail	SA
+P3001	Marketing Intern	Innovative idea and content, know the facebook and google ads system	10/12/21	Full Time	Ongoing	Post	WA
+P3002	Marketing Executive	Innovative idea and content, know the facebook and google ads system	15/12/21	Full Time	Fixed Term	Mail	QLD
+P3003	Marketing Manager	Innovative idea and content, know the facebook and google ads system	22/12/21	Part Time	Ongoing	Post, Mail	TAS
+P4001	Sales Intern	Working as sales and do the customer relations job	05/12/21	Full Time	Ongoing	Post	VIC
+P4002	Sales Executive	Working as sales and do the customer relations job	21/09/21	Full Time	Fixed Term	Mail	NSW
+P4003	Sales Manager	Working as sales and do the customer relations job	23/10/21	Part Time	Ongoing	Post, Mail	NT
+P4004	Sales Trainer	Working as sales and do the customer relations job	22/10/21	Part Time	Fixed Term	Post, Mail	SA
+P4005	Sales Trainee	Working as sales and do the customer relations job	28/10/21	Full Time	Fixed Term	Post	ACT
+P4006	Sales Executive	Working as sales and do the customer relations job	05/02/22	Part Time	Ongoing	Mail	WA
+P2008	Security Expert	Working in security project (2 year experience in security)	30/06/21	Part Time	Ongoing	Mail	NT
+P2009	Junior IoT Security	1 year experience in cyber security, working in security project about web application	01/02/22	Full Time	Fixed Term	Mail	NT
+P5001	Software Developer	developing web application php	24/09/21	Full Time	Fixed Term	Post, Mail	VIC
+P5002	Web Developer	chill chill chill	23/09/21	Part Time	Ongoing	Mail	NT
+P5003	IoT Developer	developing iot code and hardware	27/08/21	Part Time	Ongoing	Post, Mail	NT
+P5004	Cloud Developer	Developing cloud system	28/10/21	Full Time	Fixed Term	Mail	NT
+P5005	Software Engineer	Developing Software and Managing IT Project	18/11/21	Full Time	Fixed Term	Post, Mail	TAS

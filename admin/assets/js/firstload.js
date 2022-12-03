@@ -1,0 +1,1 @@
+$(document).ready(function(){var speed=1250;$('#maintext').css('opacity',0);$("main").css('display','none').slideToggle(speed*2, function(){$('#maintext').stop().animate({opacity:1},{queue:false,duration:speed});}).delay(5000).css('opacity',0).animate({opacity:1},{queue:false,duration:speed});});
